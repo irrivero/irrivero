@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-<iframe src="https://giphy.com/embed/vWst8QUOKAot6MHEZe" width="480" height="267" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/southpark-south-park-s25e2-vWst8QUOKAot6MHEZe">via GIPHY</a></p>
+<img align="center"  width="900" height="200" src="https://media.giphy.com/media/vWst8QUOKAot6MHEZe/giphy.gif" />
+<br/>
+
+
 
 <p align='center'><b>Most Used Languages</b></p>
 
