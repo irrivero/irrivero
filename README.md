@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="center"  width="480" height="267" src="https://giphy.com/embed/vWst8QUOKAot6MHEZe" />
+<img align="center"  width="480" height="267" src="[https://giphy.com/embed/vWst8QUOKAot6MHEZe](https://giphy.com/gifs/southpark-south-park-s25e2-vWst8QUOKAot6MHEZe)" />
 <br/>
 
 <iframe src=" width="480" height="267" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/southpark-south-park-s25e2-vWst8QUOKAot6MHEZe">via GIPHY</a></p>
