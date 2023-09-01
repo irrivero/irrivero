@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<img align="center"  width="480" height="267" src="https://giphy.com/embed/vWst8QUOKAot6MHEZe" />
+<br/>
+
+<iframe src=" width="480" height="267" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/southpark-south-park-s25e2-vWst8QUOKAot6MHEZe">via GIPHY</a></p>
+
 <p align='center'><b>Most Used Languages</b></p>
 
 <p align='center'>
@@ -8,13 +13,6 @@
 </a>
 </p>
 
-<p align='center'><b>Spotify Live View</b></p>
-
-<p align='center'>
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=11169899709&redirect=true">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=11169899709&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" />
-</a>
-</p>
 
 <!--
 **irrivero/irrivero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
