@@ -1,4 +1,4 @@
-### Hola hola pepsicola 👋
+### Hola hola 👋
 
 <img align='center'  width=auto height="300" src="https://media.giphy.com/media/vWst8QUOKAot6MHEZe/giphy.gif" />
 <br/>
