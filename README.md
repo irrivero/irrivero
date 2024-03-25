@@ -1,6 +1,6 @@
 ### Hola hola 👋
 
-<img align='center'  width=auto height="300" src="https://x.com/ronsangines/status/1576056285359136769?s=46&t=7VwpVF9fIe0LN0JFHXTBSQ"/>
+<img align='center'  width=auto height="300" src="https://x.com/ronsangines/status/1576056285359136769?s=46&t=7VwpVF9fIe0LN0JFHXTBSQ" />
 <br/>
 
 
