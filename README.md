@@ -4,7 +4,12 @@
   <img width="auto" height="250" src="https://media.giphy.com/media/vWst8QUOKAot6MHEZe/giphy.gif" style="border-radius: 10px;" />
 </p>
 
-## About Me
+<p align="center">
+  <i>"Lembra que es de pedra e de area" — Celso Emilio Ferreiro</i>
+</p>
+
+## About Me 
+### 🌊 From Galicia to Berlin
 
 I am a software engineer who finds joy in the quiet process of building reliable systems. My path led me to **42 Berlin**, where I learned that the best solutions come from patience, curiosity, and collaboration.
 
@@ -31,5 +36,5 @@ If you'd like to talk about systems, education, or just share a quiet coffee in 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irrivero&hide_title=1&layout=compact&theme=nord" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irrivero&layout=compact&theme=nord" alt="Top Languages" />
 </p>
