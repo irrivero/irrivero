@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <i>"Lembra que es de pedra e de area" — Celso Emilio Ferreiro</i>
+  <i>"En todo estás e ti es todo" - Rosalía de Castro</i>
 </p>
 
 ## About Me 
@@ -32,11 +32,3 @@ If you'd like to talk about systems, education, or just share a quiet coffee in 
 
 - **Email:** [irene.rivero.casal@gmail.com](mailto:irene.rivero.casal@gmail.com)
 - **LinkedIn:** [linkedin.com/in/irene-rivero-casal](https://linkedin.com/in/irene-rivero-casal)
-
----
-
-## Languages I share my time with
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,ts,nodejs,py,bash,postgres,docker,linux&theme=light" />
-</p>
