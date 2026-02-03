@@ -1,4 +1,4 @@
-<h1 align="center">Hola, I'm Irene</h1>
+<h1 align="center">Hola, I'm Irene!</h1>
 
 <p align="center">
   <img width="auto" height="250" src="https://media.giphy.com/media/vWst8QUOKAot6MHEZe/giphy.gif" style="border-radius: 10px;" />
@@ -35,6 +35,8 @@ If you'd like to talk about systems, education, or just share a quiet coffee in 
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irrivero&layout=compact&theme=nord" alt="Top Languages" />
+## Languages I share my time with
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,ts,nodejs,py,bash,postgres,docker,linux&theme=light" />
 </p>
