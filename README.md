@@ -18,7 +18,7 @@ I enjoy looking "under the hood" to understand how things work at a fundamental 
 ## Technical Palette
 
 **Languages & Frameworks:**  
-`C` `C++` `TypeScript` `Node.js` `Python` `Bash`
+`C` `C++` `TypeScript` `Node.js` `Python` `Kotlin` `Bash`
 
 **Infrastructure & Tools:**  
 `Docker` `Linux` `NGINX` `Git` `GitHub Actions` `Playwright`
