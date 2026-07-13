@@ -4,12 +4,7 @@
   <img width="auto" height="250" src="https://media.giphy.com/media/vWst8QUOKAot6MHEZe/giphy.gif" style="border-radius: 10px;" />
 </p>
 
-<p align="center">
-  <i>"En todo estás e ti es todo" - Rosalía de Castro</i>
-</p>
-
 ## About Me 
-### 🌊 From Galicia to Berlin
 
 I am a software engineer who finds joy in the quiet process of building reliable systems. My path led me to **42 Berlin**, where I learned that the best solutions come from patience, curiosity, and collaboration.
 
